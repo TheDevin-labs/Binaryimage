@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/TheDevinLabs/binary-image/internal/signal"
-	"github.com/TheDevinLabs/binary-image/pkg/sbimg"
+	"github.com/TheDevin-Labs/binaryimage/internal/signal"
+	"github.com/TheDevin-Labs/binaryimage/pkg/sbimg"
 )
 
 type Result struct {
